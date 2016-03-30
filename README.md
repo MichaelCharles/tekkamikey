@@ -2,6 +2,8 @@
 
 Tekkamikey is an HTML5 Boilerplate which comes set up for Google's [Material Design Lite](https://www.getmdl.io/started/index.html) and bilingual Japanese-English support.
 
+[See it live on GitHub Pages.](http://mca62511.github.io/tekkamikey/)
+
 ## Material Design Lite
 
 Currently Tekkamikey comes set up for Google's [Material Design Lite](https://www.getmdl.io/started/index.html). As of now I'm trying to use this in all of my projects to learn it. If I decide to move on to something else, this will likely change. 
