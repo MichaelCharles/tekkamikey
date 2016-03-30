@@ -8,7 +8,7 @@ Currently Tekkamikey comes set up for Google's [Material Design Lite](https://ww
 
 ## Social Network Metadata
 
-In the header of ```index.html``` there are three sections of metadata which are commented out by default. To use them, simply add the relevant information to the ```meta``` tags and un-comment them.
+In the header of ```index.html``` there are three sections of metadata which correspond to the metadata that Facebook, Twitter, and Google look for.
 
 ## Japanese Support
 
