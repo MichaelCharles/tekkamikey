@@ -12,4 +12,6 @@ In the header of ```index.html``` there are three sections of metadata which cor
 
 ## Japanese Support
 
+### 日本語でおｋ！
+
 The ```style.css``` comes with a ```ja``` class that has a simple Japanese text font stack. When applied to an element, the Japanese text within it will render with the most modern Japanese font available to the user. Japanese fonts tend to be rather large, so its often better to use whatever is already available on the machine instead of downloading a webfont. 
