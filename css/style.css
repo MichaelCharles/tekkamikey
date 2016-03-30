@@ -22,6 +22,12 @@ body {
 	margin: 0 auto;
 }
 
+.page-content > .mdl-grid > .mdl-cell {
+	border-radius: 2px;
+	padding: 80px 56px;
+	margin-bottom: 80px;
+}
+
 .mdl-navigation__link > i {
 	width: 50px;
 	text-align: center;
